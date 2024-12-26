@@ -18,7 +18,6 @@ The **Fetch Android Application** is designed to provide users with a seamless a
 ## Project Structure
 - `app/`: Contains the main application code.
   - `src/main/java/`: Includes the core business logic and application structure.
-  - `src/main/res/`: Contains the application's resources (layouts, images, and strings).
   - `AndroidManifest.xml`: Defines the app's structure, permissions, and entry points.
 
 ## Key Components
@@ -54,7 +53,6 @@ The **Fetch Android Application** is designed to provide users with a seamless a
 
 ### User Experience Enhancements
 1. While designing the app, I added a loading indicator to provide feedback during data fetch operations.
-2. I also displayed error messages for issues like no internet connection or API errors, ensuring transparency and a better user experience.
 
 ### Testing
 1. I integrated unit and instrumentation tests during the development process to validate the application's core functionality and UI behavior.
